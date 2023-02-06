@@ -94,7 +94,7 @@ I used my skills in working with weather data to plan future vacations. I used J
     * Zero cloudiness
 
 Image of the humidity in each city
-![](weatherPy/output_data/Images/vacation_1.JPG)
+![](WeatherPy/output_data/Images/vacation_1.JPG)
 
 
     
